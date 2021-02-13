@@ -27,7 +27,7 @@
       <label class="form-label">Image:</label>
     <input type="file" @change="imageMethod" ref="upload">
   </div>            
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <button type="submit" class="btn btn-primary">Add</button>
         </form>
     
 <div class="products-container my-4">

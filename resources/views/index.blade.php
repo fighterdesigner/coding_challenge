@@ -1,6 +1,5 @@
 @extends('layout')
 
- @section('content')
-        <div id="app">
-        </div> 
+@section('content')
+<main-web></main-web>
 @endsection
